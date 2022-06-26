@@ -1,2 +1,2 @@
 # portfolio
-My Own Website
+My Own Portfolio
